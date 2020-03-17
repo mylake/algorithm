@@ -18,7 +18,7 @@ class Sort
         end
         j += 1
       end
-      return unless flag
+      break unless flag
 
       i += 1
     end
